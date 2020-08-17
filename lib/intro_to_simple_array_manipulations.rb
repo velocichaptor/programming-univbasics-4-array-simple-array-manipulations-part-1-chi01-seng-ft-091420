@@ -21,5 +21,5 @@ def pop_with_args(array)
 end
 
 def shift_with_args(ice_cream_brands)
-  ice_cream_brands.shift(3, 4)
+  ice_cream_brands.shift()
 end
