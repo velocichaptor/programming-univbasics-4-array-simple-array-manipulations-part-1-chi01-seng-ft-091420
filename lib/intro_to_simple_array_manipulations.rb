@@ -3,10 +3,8 @@ def using_push(colors, string)
   colors.push("violet")
 end
 
-def using_shift(cities)
-  cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
-  boring_city = cities.shift()
-  boring_city
+def using_shift(array)
+ array.shift()
 end
 
 def using_unshift(boroughs, string)
