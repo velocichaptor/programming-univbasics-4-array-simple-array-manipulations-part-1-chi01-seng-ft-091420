@@ -3,8 +3,8 @@ def using_push(colors, string)
   colors.push("violet")
 end
 
-def using_shift(array)
- array.shift()
+def using_shift(cities)
+ cities.shift()
 end
 
 def using_unshift(boroughs, string)
