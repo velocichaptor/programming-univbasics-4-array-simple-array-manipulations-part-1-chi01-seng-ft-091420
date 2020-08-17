@@ -13,7 +13,6 @@ def using_unshift(boroughs, string)
 end
 
 def using_pop(contintents)
-  continents = ["Africa", "North America", "South America", "Asia", "Europe", "Australia", "Antarctica"]
   continents.pop()
 end
 
