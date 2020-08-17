@@ -12,8 +12,8 @@ def using_unshift(boroughs, string)
   boroughs.unshift("Staten Island")
 end
 
-def using_pop(contintents)
-  continents.pop()
+def using_pop(array)
+  array.pop()
 end
 
 def pop_with_args(array)
